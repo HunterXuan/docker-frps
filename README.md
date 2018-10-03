@@ -1,2 +1,2 @@
-# docker-frps
+# frps-docker
 frps running in docker
